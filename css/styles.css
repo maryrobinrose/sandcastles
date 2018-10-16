@@ -1,0 +1,22 @@
+#initially-showing {
+}
+
+#initially-hidden {
+  display: none;
+}
+
+#initially-showing2 {
+}
+
+#initially-hidden2 {
+  display: none;
+}
+
+.clickable, .clickable2 {
+  cursor: pointer;
+  color: salmon;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
