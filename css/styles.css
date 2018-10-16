@@ -1,14 +1,8 @@
-#initially-showing {
+#initially-showing, #initially-showing2 {
 }
 
-#initially-hidden {
-  display: none;
-}
 
-#initially-showing2 {
-}
-
-#initially-hidden2 {
+#initially-hidden, #initially-hidden2 {
   display: none;
 }
 
